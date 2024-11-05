@@ -30,6 +30,9 @@ str_ge:
 # Write the subroutine code here
 #  You may move jr ra   if you wish.
 #---------
+
+
+
             jr   ra
  
 # ----------------------------------------------------------------------------
